@@ -20,9 +20,9 @@ Reev Pro is an icon pack for Android containing over 1,000 icons in the same, mi
 
 [Follow me on Twitter](http://twitter.com/grabstertv)
 
-## License
 
-# Licensing
+
+## License
 
 Copyright 2020 Grabster Studios
 
