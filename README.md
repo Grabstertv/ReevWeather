@@ -4,15 +4,15 @@ Reev Weather are a set of minimalist outline based icons for you to use in your 
 
 ## Availability
 
-All icons are available in SVGs, PNGs, Fonticons as well as Kustom fonticons to be used in KLWP, KWGT and KLCK. You can find the weather Kustom formula in the Kustom folder. Compatibility with native weather formula is coming soon.
+All icons are available in SVGs, PNGs, Fonticons and easily customizable Kustom Komponent that can be used in KLWP, KWGT and KLCK. Fonticons work seamlessly with Kustom's native weather formula. All icons are available in 3 different weights: Bold, Light and Thin.
 
 ## Usage
 
 Reev Weather icons are licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. Meaning you can share and adapt as long as you give proper credits anywhere in your product.
 
-## Extended number of icons
+## Get it for your phone!
 
-Reev Pro is an icon pack for Android containing over 1,200 icons in the same, minimalist outline design. [Click here to get Reev Pro](https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios).
+Reev Pro is an icon pack for Android containing over 1,400 icons in the same, minimalist outline design. [Click here to get Reev Pro](https://play.google.com/store/apps/details?id=com.reevpro.grabsterstudios).
 
 ## My Other Apps
 
